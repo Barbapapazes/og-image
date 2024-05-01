@@ -91,7 +91,7 @@
     "@nuxtjs/tailwindcss": "^6.10.3",
     "@unocss/nuxt": "^0.58.3",
     "bumpp": "^9.2.1",
-    "eslint": "8.56.0",
+    "eslint": "9.1.1",
     "jest-image-snapshot": "^6.4.0",
     "nuxt": "^3.9.1",
     "nuxt-icon": "0.6.8",
